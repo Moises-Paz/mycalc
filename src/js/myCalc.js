@@ -36,6 +36,6 @@ var myCalc = {
 
 
 
-if(typeof module !== 'underfined' && typeof module.exports !=='underfined') {
+if(typeof module !== 'undefined' && typeof module.exports !=='undefined') {
     module.exports = myCalc;
 }
